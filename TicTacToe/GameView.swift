@@ -34,7 +34,7 @@ let themeBlue : ColorSet = ColorSet(  name : "blue",
                                       iconCenter: ColorPair(main: .white, opt: 1.0),
                                       backgrondC: ColorPair(main: .white, opt: 1.0),
                                       circleC : ColorPair(main: .blue, opt: 0.4),
-                                      markC: ColorPair(main: .blue, opt: 0.4),
+                                      markC: ColorPair(main: .white, opt: 1.0),
                                       scoreTitleC : ColorPair(main: .blue, opt: 0.4),
                                       scoreC: ColorPair(main: .blue, opt: 0.4),
                                       buttonC : ColorPair(main: .blue, opt: 0.4))

@@ -108,10 +108,10 @@
 				AF206EEF264D0CA000A76A6A /* GameViewModel.swift */,
 				AFC1A1172649956B002ACA1F /* GameView.swift */,
 				AFC1A1152649956B002ACA1F /* TicTacToeApp.swift */,
+				AF203F3D264AAA8D00A05159 /* Alert.swift */,
 				AFC1A1192649956C002ACA1F /* Assets.xcassets */,
 				AFC1A11E2649956C002ACA1F /* Info.plist */,
 				AFC1A11B2649956C002ACA1F /* Preview Content */,
-				AF203F3D264AAA8D00A05159 /* Alert.swift */,
 			);
 			path = TicTacToe;
 			sourceTree = "<group>";
